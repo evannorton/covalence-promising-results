@@ -1,4 +1,4 @@
-slowMath.add(1, 1).then(function(num) {
+slowMath.add(6, 2).then(function(num) {
     console.log(num);
     return slowMath.multiply(num, 2);
 }).then(function(num) {
