@@ -26,4 +26,4 @@ slowMath.add(6, 2).then(num => {
     console.log(`The final result is ${num}.`)
 }).catch(err => {
     console.log(err);
-})
+});
