@@ -1,5 +1,4 @@
 # Promising Results
-Covalence
 
 ## Info
 * You have been given a starter project containing an index.html file and an async-math.js file
